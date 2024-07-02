@@ -41,7 +41,7 @@ C:\Разработка\Печать реестра.epf<br>
 <i><b>oscript go.os -nc</b></i>
 
 <h2>Требования</h2>
-Скрипт написан на OneScript, https://github.com/EvilBeaver/OneScript, предполагается, что на компьютере установлены и настроены:<br>
+Скрипт написан на OneScript, https://github.com/EvilBeaver/OneScript, предполагается, что в системе установлены и настроены:<br>
 <b>OneScript</b>, https://oscript.io/<br>
 <b>Git</b>, https://git-scm.com/<br>
 <b>Sonarqube</b> и <b>Sonar-scanner</b>, https://www.sonarsource.com/<br>.
